@@ -1,0 +1,38 @@
+header {
+	font-family: helvetica, Sans-Serif;
+	font-size: 1em;
+	text-align: center;
+	color: #FF69B4;
+}
+
+button {
+	width: 200px; 
+	height: 40px; 
+	border: 4px solid black; 
+	background-color: #FF69B4;
+	color: #FFFFFF;
+	font-family: Verdana, Arial, Sans-Serif;
+	font-size: 1em;
+	font-weight: bold;
+	text-align: center;
+	box-shadow: 2px #888;
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+}
+
+body {
+	text-align: center;
+	background: black;
+}
+#changecolor {
+    height: 180px;
+    width: 100%;
+    float: left;
+}
+
+
+
+
+
